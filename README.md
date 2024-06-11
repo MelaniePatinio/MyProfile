@@ -1,11 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi there👋 </h1>
 
-I'm Melanie from Colombia and I am web developer. I really enjoy programming, learning languages and frameworks like React and working with objectives
+<p align="left"> I'm Melanie from Colombia and I am web developer. I really enjoy programming, learning languages and frameworks like React and working with objectives
 
-
-<h3 align="center">I'm Melanie from Colombia and I am web developer. I really enjoy programming, learning languages and frameworks like React and working with objectives</h3>
-
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/melanie-patiño-1342a7247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melanie-patiño-1342a7247" height="30" width="40" /></a>
 </p>
