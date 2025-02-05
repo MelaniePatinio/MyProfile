@@ -2,7 +2,7 @@
 
 I'm Melanie from Colombia and I am web developer. I really enjoy programming, learning languages and frameworks. Right now I am working with React.
 
-- 📫 How to reach me **m.patno1831@gmail.com**
+- 📫 How to reach me **melaniepatinoart@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
