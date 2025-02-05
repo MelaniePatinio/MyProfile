@@ -1,6 +1,6 @@
 <h2>Hi there👋 </h2>
 
-I'm Melanie from Colombia and I am web developer. I really enjoy programming, learning languages and frameworks like React and working with objectives.
+I'm Melanie from Colombia and I am web developer. I really enjoy programming, learning languages and frameworks. Right now I am working with React.
 
 - 📫 How to reach me **m.patno1831@gmail.com**
 
